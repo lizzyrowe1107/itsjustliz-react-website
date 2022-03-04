@@ -23,7 +23,7 @@ function App() {
 
           <div className="col-lg-6">
             <div className="profile-picture">
-              <img className="img-fluid rounded mt-5" src={TwitterBackground}></img>
+              <img className="img-fluid rounded mt-5" alt="liz-profile" src={TwitterBackground}></img>
 
             </div>
           </div>

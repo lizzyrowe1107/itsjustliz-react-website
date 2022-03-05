@@ -7,6 +7,7 @@ import javascriptlogo from './javascript-logo.svg';
 import pythonlogo from './python-logo.png';
 import SQLlogo from './SQL-logo.png';
 import pwrautomatelogo from './pwrautomate-logo.png';
+import pwrappslogo from './pwrapps-logo.png';
 
 
 export default function Skills() {
@@ -36,10 +37,10 @@ export default function Skills() {
                     <img src={pwrautomatelogo} className="pwrautomate-logo mt-3" alt="pwrautomate-logo"></img>
                 </div>
                 <div className="col-1">
-                    hi
+                    <img src={pwrappslogo} className="pwrapps-logo mt-3" alt="pwrapps-logo"></img>
                 </div>
                 <div className="col-1">
-                    hi
+                    <img src={pwrappslogo} className="pwrapps-logo mt-3" alt="pwrapps-logo"></img>
                 </div>
                 <div className="col-1">
                     hi

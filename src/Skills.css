@@ -1,3 +1,11 @@
+.skills-text {
+    text-align: left;
+    margin: 40px 0px 50px 60px;
+
+}
+
+
+
 .react-logo {
     height: 125px;
     pointer-events: none;

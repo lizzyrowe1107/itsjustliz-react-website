@@ -13,7 +13,8 @@ import pwrappslogo from './pwrapps-logo.png';
 export default function Skills() {
     return (
         <div>
-            <h3>Skills</h3>
+            <h3 className="skills-text">Technical Skills</h3>
+           
             <div className="row">
                 <div className="col-1">
                     <img src={logo} className="react-logo" alt="logo" />
@@ -40,16 +41,16 @@ export default function Skills() {
                     <img src={pwrappslogo} className="pwrapps-logo mt-3" alt="pwrapps-logo"></img>
                 </div>
                 <div className="col-1">
-                    <img src={pwrappslogo} className="pwrapps-logo mt-3" alt="pwrapps-logo"></img>
+                    <code>insert skill</code>
                 </div>
                 <div className="col-1">
-                    hi
+                    <code>insert skill</code>
                 </div>
                 <div className="col-1">
-                    hi
+                    <code>insert skill</code>
                 </div>
                 <div className="col-1">
-                    hi
+                    <code>insert skill</code>
                 </div>
 
             </div>

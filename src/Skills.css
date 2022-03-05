@@ -1,0 +1,42 @@
+.react-logo {
+    height: 125px;
+    pointer-events: none;
+  }
+
+@media (prefers-reduced-motion: no-preference) {
+    .react-logo {
+      animation: react-logo-spin infinite 20s linear;
+    }
+  }
+
+@keyframes react-logo-spin {
+from {
+    transform: rotate(0deg);
+}
+to {
+    transform: rotate(360deg);
+}
+}
+
+.html-logo {
+    max-width: 115px;
+}
+
+.css-logo {
+    max-width: 83px;
+}
+
+.javascript-logo {
+    max-width: 85px;
+}
+
+.python-logo {
+    max-width: 90px;
+}
+
+.SQL-logo {
+    max-width: 110px;
+}
+.pwrautomate-logo {
+    max-width: 200px;
+}
